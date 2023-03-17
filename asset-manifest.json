@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/react-live-projects/static/css/main.1cc8aabd.css",
-    "main.js": "/react-live-projects/static/js/main.5b8c0e06.js",
-    "static/media/7.svg": "/react-live-projects/static/media/7.189f753f4aa8f06f766b6d0af27915d8.svg",
-    "static/media/5.svg": "/react-live-projects/static/media/5.40f7b9beac1ecef571c5ef9e529eff0a.svg",
-    "static/media/9.svg": "/react-live-projects/static/media/9.cc70f0d0063864edeb2194ad7a028526.svg",
-    "static/media/4.svg": "/react-live-projects/static/media/4.7a4d8d5dc6c9a20857c3537869695ae8.svg",
-    "static/media/2.svg": "/react-live-projects/static/media/2.3182a7220d9f3a068683e6fdffdc36ba.svg",
-    "static/media/3.svg": "/react-live-projects/static/media/3.bc708d637086f761ca1efc55df0cadd8.svg",
-    "static/media/6.svg": "/react-live-projects/static/media/6.24b93e133d0dc8c0777d11eb850f2279.svg",
-    "static/media/Exp_1_no_batch.svg": "/react-live-projects/static/media/Exp_1_no_batch.4f225cbf88cfee27e8c507baef9f667b.svg",
-    "static/media/1.svg": "/react-live-projects/static/media/1.a157649f23e72deef46d8d55bc1490dc.svg",
-    "static/media/8.svg": "/react-live-projects/static/media/8.2c8af1497d79ed16bd4e91c1f0639aea.svg",
+    "main.css": "/react-live-projects/static/css/main.8ecbcf1a.css",
+    "main.js": "/react-live-projects/static/js/main.51aa4630.js",
+    "static/media/Exp_3_no_batch.svg": "/react-live-projects/static/media/Exp_3_no_batch.33de61aebe7c74fe7c1edb4ee5b36529.svg",
+    "static/media/Exp_6_no_batch.svg": "/react-live-projects/static/media/Exp_6_no_batch.8e3275a20bdaef282ca6e41b3120ec30.svg",
+    "static/media/7.svg": "/react-live-projects/static/media/7.47781f85f30940cb2b0e301c8ee92824.svg",
+    "static/media/5.svg": "/react-live-projects/static/media/5.5a40c1cc90925e53d8bd3a0aef1d6451.svg",
+    "static/media/Exp_7_no_batch.svg": "/react-live-projects/static/media/Exp_7_no_batch.4656110690a6ba8480aee3dabb13ea58.svg",
+    "static/media/9.svg": "/react-live-projects/static/media/9.92ea32fc85e080d5df7b7f60558f331d.svg",
+    "static/media/4.svg": "/react-live-projects/static/media/4.5b89f8637b5869b2bd89864cc49e20e5.svg",
+    "static/media/2.svg": "/react-live-projects/static/media/2.1cb2de02197e3044751f576ea0dcf7fb.svg",
+    "static/media/3.svg": "/react-live-projects/static/media/3.0734f51427c5019b351574e85e5b6776.svg",
+    "static/media/6.svg": "/react-live-projects/static/media/6.8b47a3852507e6db28e23528ceb9b08f.svg",
+    "static/media/Exp_1_no_batch.svg": "/react-live-projects/static/media/Exp_1_no_batch.6d927114bcaef956db476d451df204fc.svg",
+    "static/media/1.svg": "/react-live-projects/static/media/1.0a800af2799759b798577c423ceaa0b4.svg",
+    "static/media/8.svg": "/react-live-projects/static/media/8.4edf64e66b63e6c92002952e9a261012.svg",
+    "static/media/Exp_5_no_batch.svg": "/react-live-projects/static/media/Exp_5_no_batch.ce7f55eb102fca0ce7bef0592393856e.svg",
     "static/media/photo.jpg": "/react-live-projects/static/media/photo.ebc6876edbbd113ce2dd.jpg",
-    "static/media/airbnb_logo.svg": "/react-live-projects/static/media/airbnb_logo.883a67bba3c27b256f9072e08330d7a0.svg",
+    "static/media/Exp_2_no_batch.svg": "/react-live-projects/static/media/Exp_2_no_batch.97580304c9ea48cf35899f71ba1c1908.svg",
+    "static/media/Exp_4_no_batch.svg": "/react-live-projects/static/media/Exp_4_no_batch.dcfa6b7be6d2d0ec51b017d9c1078371.svg",
+    "static/media/airbnb_logo.svg": "/react-live-projects/static/media/airbnb_logo.7e7ca2088498b305c288c7f55663a20a.svg",
     "static/media/react_bg.svg": "/react-live-projects/static/media/react_bg.bba708ae629fc2697f85.svg",
-    "static/media/Star.svg": "/react-live-projects/static/media/Star.23d3452dc37539262aa5d920c9f96b4b.svg",
+    "static/media/Star.svg": "/react-live-projects/static/media/Star.4253351289a38a7cf56081641a6dcee6.svg",
     "index.html": "/react-live-projects/index.html",
-    "main.1cc8aabd.css.map": "/react-live-projects/static/css/main.1cc8aabd.css.map",
-    "main.5b8c0e06.js.map": "/react-live-projects/static/js/main.5b8c0e06.js.map"
+    "static/media/Arrow.svg": "/react-live-projects/static/media/Arrow.c937b871068a1fbb5d1d5ac9fa8ff433.svg",
+    "main.8ecbcf1a.css.map": "/react-live-projects/static/css/main.8ecbcf1a.css.map",
+    "main.51aa4630.js.map": "/react-live-projects/static/js/main.51aa4630.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc8aabd.css",
-    "static/js/main.5b8c0e06.js"
+    "static/css/main.8ecbcf1a.css",
+    "static/js/main.51aa4630.js"
   ]
 }
